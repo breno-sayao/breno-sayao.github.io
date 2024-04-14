@@ -1,0 +1,89 @@
+body {
+    background-color: #421A74;
+    color: #ffffff;
+}
+
+.navbar-black {
+    background-color: #000000;
+
+}
+.navbar-black .navbar-nav .nav-link {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-black .navbar-nav .nav-link:hover {
+    color: #421A74;
+}
+
+#content.btn {
+    color: #ea5dfc;
+}
+
+#content.container {
+    margin-top: 20px;
+}
+
+#content.container h1, #content.container p, #text{
+    color: #ffffff;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+#content.container h3{
+    color:#ffffff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#content.container p, #content.container h2{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#content.container img {
+    border-radius: 10px;
+}
+
+#content.container p {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card_perfil {
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 10px;
+    max-width: 400px;
+    margin: 0;
+}
+
+.btn-custom {
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.bg-custom {
+    background-color: #e3e1e6;
+    color: #00000;
+}
+
+.btn-custom:hover {
+    background-color: #ad5bf0;
+}
+
+.social-btns .btn {
+  margin-bottom: 10px;
+}
+
+.social-btns {
+  margin-top: 20px;
+}
